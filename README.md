@@ -1,1 +1,1 @@
-Loan sanction amount
+In this project, I used machine learning to address the problem of predicting survival after the Titanic disaster. In this project, I mainly used basic machine learning models and added some modifications to improve the model's performance. My model achieved a prediction accuracy rate of up to 91%. Although there are still some limitations and the practical applicability is not high, I am continuously improving and exploring to develop it further in the future.
